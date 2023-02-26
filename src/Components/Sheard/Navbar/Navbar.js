@@ -83,25 +83,25 @@ const Navbar = () => {
 
 
                                     <NavLink
-                                        to={'support'}
+                                        to={'supportssss'}
                                         className={({ isActive }) => (`cursor-pointer rounded-md text-[15px] hover:text-blue-500 font-semibold  ${isActive ? 'text-blue-500' : 'text-gray-700'}`)}
                                     >Coaching
                                     </NavLink>
 
                                     <NavLink
-                                        to={'support'}
+                                        to={'supportsss'}
                                         className={({ isActive }) => (`cursor-pointer rounded-md text-[15px] hover:text-blue-500 font-semibold  ${isActive ? 'text-blue-500' : 'text-gray-700'}`)}
                                     >Country
                                     </NavLink>
 
                                     <NavLink
-                                        to={'support'}
+                                        to={'supports'}
                                         className={({ isActive }) => (`cursor-pointer rounded-md text-[15px] hover:text-blue-500 font-semibold  ${isActive ? 'text-blue-500' : 'text-gray-700'}`)}
                                     >Blog
                                     </NavLink>
 
                                     <NavLink
-                                        to={'support'}
+                                        to={'supportss'}
                                         className={({ isActive }) => (`cursor-pointer rounded-md text-[15px] hover:text-blue-500 font-semibold  ${isActive ? 'text-blue-500' : 'text-gray-700'}`)}
                                     >Contact
                                     </NavLink>
@@ -123,13 +123,13 @@ const Navbar = () => {
 
 
                                                 <NavLink
-                                                    to={'/bookshop'}
+                                                    to={'/bookshopss'}
                                                     className={({ isActive }) => (`flex items-center gap-3 cursor-pointer rounded-md text-[15px] hover:text-blue-500 font-semibold  ${isActive ? 'text-blue-500' : 'text-gray-700'}`)}
                                                 ><BiFolderOpen className=' text-lg' /> BSC student
                                                 </NavLink>
 
                                                 <NavLink
-                                                    to={'/sakha'}
+                                                    to={'/sakhas'}
                                                     className={({ isActive }) => (`flex items-center gap-3 cursor-pointer rounded-md text-[15px] hover:text-blue-500 font-semibold  ${isActive ? 'text-blue-500' : 'text-gray-700'}`)}
                                                 ><BiFolderOpen className=' text-lg' />PhD Student
                                                 </NavLink>
